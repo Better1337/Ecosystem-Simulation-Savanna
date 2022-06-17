@@ -1,5 +1,4 @@
 # Sawanna
-Sawanna
 ### Creators
-*Kacper Radziwon (leader)
-*Marcin Szeja
+* Kacper Radziwon (leader)
+* Marcin Szeja
