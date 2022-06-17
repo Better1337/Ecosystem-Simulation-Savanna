@@ -187,7 +187,6 @@ public class Animal {
         if (z1.intersects(z3)) {
             if (a.strenght > t.strenght) {
                 t.status = 0;
-
             } else
                 a.status = 0;
                 t.strenght++;
@@ -233,7 +232,7 @@ public class Animal {
         }
         if(z5.intersects(z1)){
             if(a.wielkosc <= w.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     a.vx = 0;
                     a.vy = 0;
                     a.strenght = 1000;
@@ -245,7 +244,7 @@ public class Animal {
         }
         if(z5.intersects(z2)) {
             if(h.wielkosc <= w.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     h.vx = 0;
                     h.vy = 0;
                     h.strenght = 1000;
@@ -257,7 +256,7 @@ public class Animal {
         }
         if(z5.intersects(z3)) {
             if (t.wielkosc <= w.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     t.vx = 0;
                     t.vy = 0;
                     t.strenght = 1000;
@@ -269,7 +268,7 @@ public class Animal {
         }
         if(z5.intersects(z4)) {
             if(l.wielkosc <= w.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     l.vx = 0;
                     l.vy = 0;
                     l.strenght = 1000;
@@ -281,7 +280,7 @@ public class Animal {
         }
         if(z6.intersects(z1)) {
             if(a.wielkosc <= n.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     a.vx = 0;
                     a.vy = 0;
                     a.strenght = 1000;
@@ -293,7 +292,7 @@ public class Animal {
         }
         if(z6.intersects(z2)) {
             if(h.wielkosc <= n.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     h.vx = 0;
                     h.vy = 0;
                     h.strenght = 1000;
@@ -305,7 +304,7 @@ public class Animal {
         }
         if(z6.intersects(z3)) {
             if (t.wielkosc <= n.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     t.vx = 0;
                     t.vy = 0;
                     t.strenght = 1000;
@@ -317,7 +316,7 @@ public class Animal {
         }
         if(z6.intersects(z4)) {
             if (l.wielkosc <= n.wielkosc) {
-                for (int i = 0; i <= 5; i++) {
+                for (int i = 0; i <= 7; i++) {
                     l.vx = 0;
                     l.vy = 0;
                     l.strenght = 1000;
