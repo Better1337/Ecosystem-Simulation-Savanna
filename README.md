@@ -1,5 +1,5 @@
-# ProjektP
+# Sawanna
 Sawanna
-Creators
-Kacper Radziwon (leader)
-Marcin Szeja
+### Creators
+*Kacper Radziwon (leader)
+*Marcin Szeja
