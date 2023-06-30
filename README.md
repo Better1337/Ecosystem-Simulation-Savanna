@@ -1,3 +1,3 @@
 # Sawanna
 ### Creators
-* Kacper Radziwon (leader)
+* Kacper Radziwon
