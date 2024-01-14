@@ -1,6 +1,6 @@
 # Sawanna
 Symulacja Ekosystemu
-OpisProjekt 
+#OpisProjekt 
 "Symulacja Ekosystemu" to interaktywna symulacja, w której zwierzęta i rośliny o różnych cechach są umieszczane na planszy o określonych wymiarach. Symulacja ta pozwala obserwować, jak zwierzęta początkowo poruszają się losowo, a ich ruchy ewoluują pod wpływem różnych czynników środowiskowych.
 
 Komponenty
