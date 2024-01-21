@@ -1,18 +1,17 @@
-# Symulacja Ekosystemu - Sawanna
+# Ecosystem Simulation - Savanna
 
-## Opis Projektu
-"Symulacja Ekosystemu" to interaktywna symulacja, w której zwierzęta i rośliny o różnych cechach są umieszczane na planszy o określonych wymiarach. Symulacja ta pozwala obserwować, jak zwierzęta początkowo poruszają się losowo, a ich ruchy ewoluują pod wpływem różnych czynników środowiskowych.
+## Project Description
+"Ecosystem Simulation" is an interactive simulation where animals and plants with various characteristics are placed on a board with defined dimensions. This simulation allows observation of how the animals initially move randomly, and their movements evolve under the influence of various environmental factors.
 
-## Komponenty Symulacji
-- **Simulation**: Główny moduł zarządzający symulacją.
-- **Animal**: Definiuje zachowania i właściwości zwierząt.
-- **Plants**: Opisuje różne rodzaje roślin i ich wpływ na planszę.
-- **Map**: Reprezentuje przestrzeń, w której odbywa się symulacja.
-- **ApplicationData**: Zarządza danymi i stanem aplikacji.
-- **Interakcje Zwierzęta**: w symulacji mogą ukrywać się lub zwiększać swoje statystyki dzięki obecności roślin.
+## Components of the Simulation
+- **Simulation**: The main module managing the simulation.
+- **Animal**: Defines the behaviors and properties of animals.
+- **Plants**: Describes different types of plants and their impact on the board.
+- **Map**: Represents the space where the simulation takes place.
+- **ApplicationData**: Manages data and the state of the application.
+- **Animal Interactions**: In the simulation, animals can hide or increase their statistics through the presence of plants.
 
-Projekt uwzględnia różnorodne interakcje pomiędzy tymi elementami ekosystemu.
+The project includes a variety of interactions between these elements of the ecosystem.
 
-## Twórcy
+## Creators
 - Kacper Radziwon
-
